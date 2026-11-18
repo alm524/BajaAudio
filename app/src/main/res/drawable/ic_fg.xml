@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- nota musical -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M62,30 L62,62 A9,9 0 1,1 56,54 L56,36 L44,39 L44,68 A9,9 0 1,1 38,60 L38,34 Z" />
+    <!-- flecha de descarga -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M72,44 L78,44 L78,58 L84,58 L75,69 L66,58 L72,58 Z" />
+</vector>
